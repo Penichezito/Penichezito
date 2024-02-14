@@ -1,4 +1,4 @@
-# Hello World, I´m Tiago Peniche (Penichezito) 💻
+# I´m Tiago Peniche (Penichezito) 💻
 > An Entrepreneur and SEO Specialist adventuring in a wondering world of programming in search of become a Software Engineer
 
 # Professional Skills 🚀
