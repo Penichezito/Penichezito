@@ -5,6 +5,7 @@
 
 + Entrepeneur & SEO Specialist
 + Postgraduate in software engineering in [Universidade Pontíficia Católica - PUC RIO](https://www.cce.puc-rio.br/sitecce/website/website.dll?nInst=cce)
++ Full Stack Developer
 
   
 ## ***GitHub Stats 🧲***
