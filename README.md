@@ -2,10 +2,9 @@
 > An Entrepreneur and SEO Specialist adventuring in a wondering world of programming in search of become a Software Engineer
 
 ## ***Professional Skills 🚀***
-
++ Software Engineer - FullStack Developer
 + Entrepeneur & SEO Specialist
 + Postgraduate in software engineering in [Universidade Pontíficia Católica - PUC RIO](https://www.cce.puc-rio.br/sitecce/website/website.dll?nInst=cce)
-+ Full Stack Developer
 
   
 ## ***GitHub Stats 🧲***
