@@ -1,5 +1,5 @@
 # **I´m Tiago Peniche (Penichezito) 💻**
-> An Entrepreneur and SEO Specialist adventuring in a wondering world of programming in search of become a Software Engineer
+> Software Engineer | Game Dev
 
 ## ***Professional Skills 🚀***
 + Software Engineer - FullStack Developer
