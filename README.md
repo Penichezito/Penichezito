@@ -5,7 +5,6 @@
 + Software Engineer | Graphic Programmer | Technical Artist
 + Entrepeneur & SEO Specialist
 + Postgraduate in software engineering in [Universidade Pontíficia Católica - PUC RIO](https://www.cce.puc-rio.br/sitecce/website/website.dll?nInst=cce)
-+ 
 
 ## ***Connect with me 🔌***
 
