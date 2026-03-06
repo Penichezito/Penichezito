@@ -5,12 +5,7 @@
 + Software Engineer | Graphic Programmer | Technical Artist
 + Entrepeneur & SEO Specialist
 + Postgraduate in software engineering in [Universidade Pontíficia Católica - PUC RIO](https://www.cce.puc-rio.br/sitecce/website/website.dll?nInst=cce)
-
-  
-## ***GitHub Stats 🧲***
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Penichezito&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Penichezito&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
++ 
 
 ## ***Connect with me 🔌***
 
